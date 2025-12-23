@@ -13,5 +13,5 @@ steps:
     addToPath: true
 
 - script: |
-    python bank_demo.py
-  displayName: 'Sample'
+    python Sample.py
+  displayName: 'Bank Demo'
